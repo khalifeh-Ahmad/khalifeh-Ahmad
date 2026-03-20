@@ -31,4 +31,5 @@ Front-End Developer with 5+ years of experience building responsive, user-friend
 ## Contact
 - LinkedIn: [khalifeh-ahmad](https://www.linkedin.com/in/khalifeh-ahmad/)
 - Email: khalifeh92ahmed@hotmail.com
+- Portfolio: https://khalifeh-ahmad.vercel.app/
 - Location: Kuala Lumpur, Malaysia
