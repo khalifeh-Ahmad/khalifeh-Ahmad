@@ -8,7 +8,7 @@ Responsive web apps, clean user experiences, and practical automation workflows.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-khalifeh--ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalifeh-ahmad/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalifeh92ahmed@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://your-site.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://khalifeh-ahmad.vercel.app/)
 
 </div>
 
