@@ -1,35 +1,63 @@
-# Hi, I'm Khalifeh Ahmad 👋
+<div align="center">
 
-Front-End Developer with 5+ years of experience building responsive, user-friendly web applications and scalable front-end solutions.
+# Khalifeh Ahmad
+
+### Front-End Developer • UI-Focused Builder • Automation Enthusiast
+
+Responsive web apps, clean user experiences, and practical automation workflows.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-khalifeh--ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalifeh-ahmad/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khalifeh92ahmed@hotmail.com)
+[![Location](https://img.shields.io/badge/Location-Kuala%20Lumpur%2C%20Malaysia-2ea44f?style=for-the-badge)](#)
+
+</div>
+
+---
 
 ## About Me
-- Front-End Developer focused on clean UI, performance, and maintainable code
-- Experienced with React, Angular, TypeScript, JavaScript, and REST APIs
-- Currently working as a Chatbot Technical Analyst, building automation workflows with N8N
-- Strong background in software engineering, testing, and Agile teamwork
+
+Passionate Frontend Developer with 5+ years of experience building high-performance web applications. I specialize in React, TypeScript, Node.js, and modern cloud architectures. I leverage AI-powered development tools (CursorAI, Claude, Antigravity)
+
+---
 
 ## Tech Stack
-**Frontend:** React, Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap, jQuery  
-**Backend & Data:** SQL, PL/SQL, PHP Laravel, Oracle, Elasticsearch  
-**Tools & Workflow:** Git, N8N, Notion, Agile (Scrum), Software Testing, jMeter
+
+**Frontend**  
+`React` `TypeScript` `JavaScript` `HTML5` `CSS3` `Bootstrap` `jQuery`
+
+**Backend / Data**  
+`SQL` `PL/SQL` `PHP Laravel` `Oracle` `Elasticsearch`
+
+**Tools**  
+`Git` `N8N` `Notion` `jMeter` `Agile / Scrum` `Postman` `Playwright`
+
+---
 
 ## Experience
-- **Chatbot Technical Analyst** at Maids.cc
-- **Software Developer** at Syriatel Mobile Telecom
-- **Front-End Web Developer** at Source Code
-- **System Administrator** at Orient Gate Travel Retail
+
+- **Chatbot Technical Analyst** — Maids.cc  
+- **Software Developer** — Syriatel Mobile Telecom  
+- **Front-End Web Developer** — Source Code  
+- **System Administrator** — Orient Gate Travel Retail  
+
+---
 
 ## Education
-- **Master in Web Science** — Syrian Virtual University
+
+- **Master in Web Science** — Syrian Virtual University  
 - **Information Technology Engineering**
 
-## Certifications
-- Build Intelligent Agents Using DeepSeek & N8N
-- Angular 17 Specialization
-- Software Development Processes and Methodologies
+---
 
-## Contact
-- LinkedIn: [khalifeh-ahmad](https://www.linkedin.com/in/khalifeh-ahmad/)
-- Email: khalifeh92ahmed@hotmail.com
-- Portfolio: https://khalifeh-ahmad.vercel.app/
-- Location: Kuala Lumpur, Malaysia
+## Certifications
+
+- Build Intelligent Agents Using DeepSeek & N8N  
+- Software Development Processes and Methodologies  
+
+---
+
+<div align="center">
+
+### Open to building modern web interfaces and smart automation workflows
+
+</div>
