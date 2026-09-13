@@ -2,7 +2,7 @@
 
 # Khalifeh Ahmad
 
-### Front-End Developer • UI-Focused Builder • Automation Enthusiast
+### Software Developer • UI-Focused Builder • Automation Enthusiast
 
 Responsive web apps, clean user experiences, and practical automation workflows.
 
