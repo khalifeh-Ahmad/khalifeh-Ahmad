@@ -76,7 +76,6 @@ Full stack developer with **6+ years** building web applications — front-end h
 
 ## Education
 
-- 🎓 **MBA** — University of Geomatika Malaysia *(in progress)*
 - 🎓 **MSc, Web Science** — Syrian Virtual University
 - 🎓 **BSc, Information Technology** — Tishreen University
 
