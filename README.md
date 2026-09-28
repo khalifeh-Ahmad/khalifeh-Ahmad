@@ -68,7 +68,7 @@ Full stack developer with **6+ years** building web applications — front-end h
 | :--- | :--- | :--- |
 | **Full Stack Developer** | VELL · Kuala Lumpur | Aug 2026 – Present |
 | **Software Developer** | CanGuru · Melbourne (remote) | Feb 2026 – Aug 2026 |
-| **Chatbot Technical Analyst** | Maids.cc – Tech & AI · Dubai | Mar 2025 – Nov 2025 |
+| **Chatbot Technical Analyst** | Maids.cc – Tech & AI · Dubai (remote) | Mar 2025 – Nov 2025 |
 | **Software Developer** | Syriatel Mobile Telecom · Damascus | Aug 2021 – Jun 2024 |
 | **Front-End Web Developer** | Source Code · Damascus | Oct 2019 – Jul 2021 |
 
